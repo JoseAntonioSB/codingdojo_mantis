@@ -7,3 +7,4 @@ Scenario Outline: "Si me das cuatro numeros y son = 2713"
 	Scenarios:
 		|numbers|symbols|
 		|2713|"XXXX"|
+		|1234|"--"|

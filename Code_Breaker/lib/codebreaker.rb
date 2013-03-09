@@ -1,6 +1,6 @@
 class Codebreaker
 	 def guess(number)
-	 	 if (number == 2713)
+	 	 if (number.to_i == 2713)
 	 	 	@guess= "XXXX"
 	 	 else
 	 	  @guess = "--"	
