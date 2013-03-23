@@ -1,0 +1,41 @@
+# Logfile created on Thu Feb 28 23:48:44 -0600 2013 by logger.rb/22285
+D, [2013-02-28T23:48:44.682552 #1693] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-28T23:50:33.450188 #1701] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-28T23:55:04.049699 #1780] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-28T23:55:27.070769 #1787] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:35:56.282747 #1842] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:38:22.654577 #1856] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:41:03.967020 #1874] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:42:45.658147 #1881] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:43:05.848557 #1882] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:44:57.455021 #1895] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:45:47.376974 #1901] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:46:21.770954 #1905] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:47:28.163306 #1915] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:47:49.647973 #1920] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:48:34.337395 #1925] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:48:34.349613 #1925] DEBUG -- : REQUESTING PAGE: GET / with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:49:25.218448 #1930] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:49:25.233094 #1930] DEBUG -- : REQUESTING PAGE: GET / with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:50:12.631059 #1934] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:50:12.644343 #1934] DEBUG -- : REQUESTING PAGE: GET /ViewShopppingCart with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:50:25.555652 #1937] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:50:25.567641 #1937] DEBUG -- : REQUESTING PAGE: GET /ViewShopppingCart with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:51:03.750412 #1939] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:51:03.762239 #1939] DEBUG -- : REQUESTING PAGE: GET /ViewShopppingCart with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:51:41.511110 #1942] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:51:41.524560 #1942] DEBUG -- : REQUESTING PAGE: GET /ViewShopppingCart with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:52:05.049903 #1945] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:52:05.062492 #1945] DEBUG -- : REQUESTING PAGE: GET /ViewShopppingCart with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:52:16.176931 #1948] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:52:16.189916 #1948] DEBUG -- : REQUESTING PAGE: GET /ViewShopppingCart with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:52:33.649480 #1949] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:52:33.662510 #1949] DEBUG -- : REQUESTING PAGE: GET / with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:52:48.920022 #1951] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:52:48.932812 #1951] DEBUG -- : REQUESTING PAGE: GET / with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:52:56.014651 #1954] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:52:56.026656 #1954] DEBUG -- : REQUESTING PAGE: GET / with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:53:18.334727 #1955] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:53:18.346765 #1955] DEBUG -- : REQUESTING PAGE: GET /ViewShopppingCart with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-03-22T19:53:29.404537 #1957] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-03-22T19:53:29.417485 #1957] DEBUG -- : REQUESTING PAGE: GET /ViewShopppingCart with {"piedraFilosofalText"=>"Piedra Filosofal"} and HTTP headers {"HTTP_REFERER"=>"/"}
