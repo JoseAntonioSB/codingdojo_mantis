@@ -1,7 +1,10 @@
 
-<form action = '/ViewShopppingCart'>
-	<input type="text" name="piedraFilosofalText" />
-	<input type="submit" value="btnTotal" />
-
-	<h1><%= @shoppingCartTotal %></h1> 
+<form action = '/ComprarLibro'>
+	Harry potter y la piedra filosofal<input type="text" name="libro1" /><br>
+	Harry potter y la Camara Secreta<input type="text" name="libro2" /><br>
+	Harry potter y el Prisionero de Azcaban<input type="text" name="libro3" /><br>
+	Harry potter y el Caliz de Fuego<input type="text" name="libro4" /><br>
+	Harry potter y la Orden del Fenix<input type="text" name="libro5" /><br>
+	<input type="submit" value="comprar" />
+	<h3><%= @total %></h3>
 </form>

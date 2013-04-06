@@ -1,7 +1,18 @@
 Feature: CalculeTotal
-	Scenario: "Obtener total para 1 libro Piedra Filosofal "
-	Given I open Harry Potter Store 
-	When I add 1 "Piedra Filosofal" book into my shopping cart
-	And I Ask Total to Pay
-	Then I should see "You have to pay 8 toñolares"
-	
+
+Scenario Outline: "Comprar libros"
+	Given Entro a la pagina 
+	When y compro <l1> libros, <l2> libros, <l3> libros, <l4> libros, <l5> libros 
+	Then debo de tener un saldo de <TotalToPay>
+
+	Scenarios:
+	| l1 | l2 | l3 | l4 | l5 | TotalToPay   |
+	| "1"  | "0"  | "0"  | "0"  | "0"  | "8.00 toñolares"       |
+	| "1"  | "1"  | "0"  | "0"  | "0"  | "15.20 toñolares"   |
+	| "1"  | "1"  | "1"  | "0"  | "0"  | "21.60 toñolares"    |	
+	| "1"  | "1"  | "1"  | "1"  | "0"  | "25.60 toñolares"    |	
+	| "1"  | "1"  | "1"  | "1"  | "1"  | "30.00 toñolares"   	 |	
+
+	Scenarios:
+	| l1 | l2 | l3 | l4 | l5 | TotalToPay   |
+	| "0"  | "1"  | "0"  | "0"  | "0"  | "8.00 toñolares"       |
