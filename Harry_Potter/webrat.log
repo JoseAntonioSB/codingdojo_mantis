@@ -562,3 +562,269 @@ D, [2013-04-05T20:44:57.744360 #3608] DEBUG -- : REQUESTING PAGE: GET / with {} 
 D, [2013-04-05T20:44:57.747571 #3608] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
 D, [2013-04-05T20:44:57.750797 #3608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
 D, [2013-04-05T20:44:57.784635 #3608] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:42:37.409835 #2004] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:42:37.458880 #2004] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:42:37.462099 #2004] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:42:37.465607 #2004] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:42:37.468424 #2004] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:42:37.472137 #2004] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:42:37.474824 #2004] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:42:37.480375 #2004] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:42:37.483229 #2004] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:42:37.487239 #2004] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:42:37.490865 #2004] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:42:37.498887 #2004] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:43:31.326140 #2201] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:43:31.339602 #2201] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:43:31.342146 #2201] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:43:31.345437 #2201] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:43:31.347862 #2201] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:43:31.356576 #2201] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:43:31.359148 #2201] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:43:31.363043 #2201] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:43:31.365391 #2201] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:43:31.368708 #2201] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:43:31.371980 #2201] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:43:31.376230 #2201] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:07.922311 #2206] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:07.933735 #2206] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"", "libro4"=>"", "libro3"=>"", "libro2"=>"", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:07.935941 #2206] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:07.938619 #2206] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"", "libro4"=>"", "libro3"=>"", "libro2"=>"", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:07.940663 #2206] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:07.942850 #2206] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"", "libro4"=>"", "libro3"=>"", "libro2"=>"", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:07.945274 #2206] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:07.950967 #2206] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"", "libro4"=>"", "libro3"=>"", "libro2"=>"", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:07.953552 #2206] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:07.955813 #2206] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"", "libro4"=>"", "libro3"=>"", "libro2"=>"", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:07.958939 #2206] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:07.962278 #2206] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"", "libro4"=>"", "libro3"=>"", "libro2"=>"", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:36.138846 #2212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:36.152358 #2212] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:36.155884 #2212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:36.159037 #2212] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:36.162041 #2212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:36.169594 #2212] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:36.173170 #2212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:36.177499 #2212] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:36.181016 #2212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:36.184312 #2212] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:36.187871 #2212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:36.210045 #2212] DEBUG -- : REQUESTING PAGE: GET /ComprarLibro with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:42.158683 #2215] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:42.172983 #2215] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:42.176492 #2215] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:42.180240 #2215] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:42.183493 #2215] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:42.186249 #2215] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:42.194212 #2215] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:42.197101 #2215] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:42.200761 #2215] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:42.203925 #2215] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:42.208240 #2215] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:42.231061 #2215] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:54.305211 #2220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:54.318211 #2220] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:54.322241 #2220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:54.325460 #2220] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:54.328114 #2220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:54.335138 #2220] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:54.339427 #2220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:54.342707 #2220] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:54.345398 #2220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:54.349458 #2220] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:44:54.353641 #2220] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:44:54.376500 #2220] DEBUG -- : REQUESTING PAGE: GET / with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:45:20.868328 #2224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:45:20.880732 #2224] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:45:20.883531 #2224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:45:20.886678 #2224] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:45:20.888889 #2224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:45:20.891816 #2224] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:45:20.893996 #2224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:45:20.901448 #2224] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:45:20.903621 #2224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:45:20.906871 #2224] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:45:20.909974 #2224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:45:20.914093 #2224] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:35.751356 #2291] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:35.765021 #2291] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:35.767423 #2291] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:35.771340 #2291] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:35.773179 #2291] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:35.776872 #2291] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:35.782844 #2291] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:35.786255 #2291] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:35.788555 #2291] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:35.793528 #2291] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:35.797542 #2291] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:35.819242 #2291] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:50.659768 #2293] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:50.672672 #2293] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:50.675211 #2293] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:50.678241 #2293] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:50.680447 #2293] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:50.683685 #2293] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:50.689508 #2293] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:50.693500 #2293] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:50.695791 #2293] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:50.699094 #2293] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:48:50.702235 #2293] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:48:50.717557 #2293] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:50:19.950733 #2302] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:50:19.963075 #2302] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:50:19.965720 #2302] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:50:19.968834 #2302] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:50:19.970873 #2302] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:50:19.974099 #2302] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:50:19.976187 #2302] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:50:19.981923 #2302] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:50:19.984297 #2302] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:50:19.987552 #2302] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:50:19.990399 #2302] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:50:19.994919 #2302] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:52:05.967477 #2340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:52:05.980311 #2340] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:52:05.982832 #2340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:52:05.986255 #2340] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:52:05.988399 #2340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:52:05.991615 #2340] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:52:05.993974 #2340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:52:06.000547 #2340] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:52:06.003023 #2340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:52:06.006501 #2340] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:52:06.009588 #2340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:52:06.027798 #2340] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:00.499482 #2344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:00.512130 #2344] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:00.514273 #2344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:00.517403 #2344] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:00.519501 #2344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:00.524664 #2344] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:00.526998 #2344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:00.530426 #2344] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:00.532581 #2344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:00.536144 #2344] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:00.539092 #2344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:00.542645 #2344] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:44.019468 #2350] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:44.032810 #2350] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:44.034904 #2350] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:44.038125 #2350] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:44.040531 #2350] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:44.043441 #2350] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:44.045918 #2350] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:44.051529 #2350] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:44.053650 #2350] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:44.057190 #2350] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:44.060207 #2350] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:44.063676 #2350] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:53:44.084731 #2350] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:53:44.087966 #2350] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"21", "libro3"=>"14", "libro2"=>"7", "libro1"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:55:00.915894 #2449] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:55:00.928632 #2449] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:55:00.930984 #2449] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:55:00.934118 #2449] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:55:00.936043 #2449] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:55:00.938959 #2449] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:55:00.941080 #2449] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:55:00.947341 #2449] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:55:00.949781 #2449] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:55:00.953031 #2449] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:55:00.955681 #2449] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:55:00.959547 #2449] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-06T14:55:00.980926 #2449] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-06T14:55:00.984856 #2449] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"21", "libro3"=>"14", "libro2"=>"7", "libro1"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T20:36:17.976135 #1685] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T20:36:18.037149 #1685] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T20:36:18.040040 #1685] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T20:36:18.043861 #1685] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T20:36:18.046198 #1685] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T20:36:18.050148 #1685] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T20:36:18.055229 #1685] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T20:36:18.058702 #1685] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T20:36:18.061067 #1685] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T20:36:18.065175 #1685] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T20:36:18.076106 #1685] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T20:36:18.080143 #1685] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T20:36:18.099720 #1685] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T20:36:18.103224 #1685] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"21", "libro3"=>"14", "libro2"=>"7", "libro1"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:06:57.535021 #2115] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:06:57.548622 #2115] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:06:57.550665 #2115] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:06:57.555468 #2115] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:06:57.557624 #2115] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:06:57.564244 #2115] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:06:57.566738 #2115] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:06:57.571262 #2115] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:06:57.573817 #2115] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:06:57.577227 #2115] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:06:57.580215 #2115] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:06:57.602527 #2115] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:06:57.604849 #2115] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:06:57.608581 #2115] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"21", "libro3"=>"14", "libro2"=>"7", "libro1"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:06:57.612153 #2115] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:06:57.615420 #2115] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"50", "libro3"=>"20", "libro2"=>"30", "libro1"=>"60"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:20.324959 #2120] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:20.339557 #2120] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:20.342804 #2120] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:20.346177 #2120] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:20.348170 #2120] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:20.351454 #2120] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:20.358103 #2120] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:20.362262 #2120] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:20.365239 #2120] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:20.368551 #2120] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:20.371406 #2120] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:20.394219 #2120] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:20.397683 #2120] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:20.401155 #2120] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"21", "libro3"=>"14", "libro2"=>"7", "libro1"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:20.403651 #2120] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:20.407430 #2120] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"50", "libro3"=>"20", "libro2"=>"30", "libro1"=>"60"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:33.886941 #2123] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:33.902145 #2123] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:33.904892 #2123] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:33.907867 #2123] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:33.910383 #2123] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:33.917010 #2123] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:33.919304 #2123] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:33.922504 #2123] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:33.924876 #2123] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:33.928941 #2123] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:33.932078 #2123] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:33.953873 #2123] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:33.956319 #2123] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:33.959708 #2123] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"21", "libro3"=>"14", "libro2"=>"7", "libro1"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:33.962153 #2123] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:33.965345 #2123] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"50", "libro3"=>"20", "libro2"=>"30", "libro1"=>"60"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:45.566585 #2126] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:45.579943 #2126] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:45.582391 #2126] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:45.585954 #2126] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:45.587965 #2126] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:45.590765 #2126] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:45.595733 #2126] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:45.598841 #2126] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:45.600717 #2126] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:45.604724 #2126] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:45.607856 #2126] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:45.632426 #2126] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:45.635070 #2126] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:45.638606 #2126] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"21", "libro3"=>"14", "libro2"=>"7", "libro1"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:07:45.640956 #2126] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:07:45.644026 #2126] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"50", "libro3"=>"20", "libro2"=>"30", "libro1"=>"60"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:12:24.991018 #2159] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:12:25.004082 #2159] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"0", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:12:25.006686 #2159] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:12:25.009967 #2159] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:12:25.011989 #2159] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:12:25.014837 #2159] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:12:25.019959 #2159] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:12:25.023481 #2159] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:12:25.025390 #2159] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:12:25.028483 #2159] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"1", "libro4"=>"1", "libro3"=>"1", "libro2"=>"1", "libro1"=>"1"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:12:25.032255 #2159] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:12:25.054606 #2159] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"0", "libro4"=>"0", "libro3"=>"0", "libro2"=>"1", "libro1"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:12:25.057408 #2159] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:12:25.061268 #2159] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"21", "libro3"=>"14", "libro2"=>"7", "libro1"=>"11"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-04-09T21:12:25.063434 #2159] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-04-09T21:12:25.066447 #2159] DEBUG -- : REQUESTING PAGE: GET /Comprarlibros with {"libro5"=>"40", "libro4"=>"50", "libro3"=>"20", "libro2"=>"30", "libro1"=>"60"} and HTTP headers {"HTTP_REFERER"=>"/"}

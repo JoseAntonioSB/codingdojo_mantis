@@ -10,7 +10,7 @@ get '/' do
 	erb :Home
 end
 
-get '/ComprarLibro' do
+get '/Comprarlibros' do
 	Comprar = ShoppingCart.new
 	libro1 = params[:libro1]
 	libro2 = params[:libro2]
